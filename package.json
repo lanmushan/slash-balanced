@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/lanmushan/slash-balanced",
   "style": "dist/style.css",
-  "keyword": [
+  "keywords": [
     "同源限制",
     "HTTP请求",
     "HTTP1.1",
