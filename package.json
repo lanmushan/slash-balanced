@@ -1,6 +1,6 @@
 {
   "name": "slash-balanced",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/slash-balanced.umd.js",
   "module": "dist/slash-balanced.es.js",
   "typings": "dist/packages/index.d.ts",
